@@ -1,4 +1,4 @@
-# Playtime Tracking and Synchronization Script
+# Playtime Tracking Script
 
 ### Overview
 
