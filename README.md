@@ -22,6 +22,7 @@ This script provides real-time tracking and synchronization of player playtime f
 
 1. **Download and Extract**
   * Download the script files and place them in your server's `resources` folder.
+  * Make sure to extract the `node_modules` folder included in the zip file to ensure the bot dependencies are installed.
 2. **Configure Database**
   * Ensure you have a MySQL database set up.
   * Create a table for playtime using the following schema:
