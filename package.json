@@ -1,0 +1,15 @@
+{
+  "name": "Oracula",
+  "version": "1.0.0",
+  "description": "A project for managing player data and Discord integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Your Name",
+  "type": "module",  
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
